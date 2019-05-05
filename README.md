@@ -1,7 +1,7 @@
 # 个人微信号二次开发sdk协议,微信个人号开发API接口
 微信SDK程序概要说明
 ---------------------------------
-非微信ipad协议、非mac协议,非安卓协议，api可实现微信99%功能；      
+本微信开发SDK非微信ipad协议、非mac协议,非安卓协议，api可实现微信99%功能；      
 无需扫码登录、可收发朋友圈、查看朋友圈、朋友圈互动点赞、评论、      
 好友列表、微信消息收发、发文本消息、图片消息、名片消息、动图表情、发文件、删好友      
 添加好友、微信转账、微信红包接收、分享小程序、分享名片、加通讯录好友、微信收藏、微信标签等！      
@@ -324,9 +324,13 @@ ChatRoomMembersNotice = 2034;
 --------------------
 咨询请加微信tangjinjinwx
 
-以下为PC端演示demo,源码已上传，二次开发有疑问请加问下
+以下为PC端演示demo,源码已上传到github，二次开发有疑问请加微信tangjinjinwx
 --------------------
 ![Image text](http://www.yunlauncher.com/kf/1.png)
+![Image text](http://www.yunlauncher.com/kf/2.png)
+![Image text](http://www.yunlauncher.com/kf/3.png)
+![Image text](http://www.yunlauncher.com/kf/4.png)
+![Image text](http://www.yunlauncher.com/kf/5.png)
 
 微信sdk方案可实现功能说明
 --------------
